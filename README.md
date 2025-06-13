@@ -4,22 +4,29 @@
 
 # Welcome
 
+### **| Github |**
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohhyuntaek&show_icons=true&theme=defalte) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohhyuntaek&layout=compact)](https://github.com/Ohhyuntaek/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ohhyuntaek&theme=react)](https://github.com/Ohhyuntaek/github-readme-activity-graph)
+
+### **| Baekjoon |**
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=penguin4404)](https://solved.ac/penguin4404)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=penguin4404&theme=warm)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ohhyuntaek&theme=react)](https://github.com/Ohhyuntaek/github-readme-activity-graph)
+
 
 ---
 
 </div>
 
-<div align="left">
+<div align="center">
 
-> ### 기술 스택
+### **| 기술 스택 |**
+
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
