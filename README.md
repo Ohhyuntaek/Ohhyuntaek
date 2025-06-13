@@ -8,7 +8,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohhyuntaek&layout=compact)](https://github.com/Ohhyuntaek/github-readme-stats)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=penguin4404)](https://solved.ac/penguin4404)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ohhyuntaek&theme=defalte)](https://git.io/streak-stats)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=penguin4404&theme=warm)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ohhyuntaek&theme=react)](https://github.com/Ohhyuntaek/github-readme-activity-graph)
 
