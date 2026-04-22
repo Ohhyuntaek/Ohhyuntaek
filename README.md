@@ -6,18 +6,10 @@
 
 ### **| Github |**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohhyuntaek&show_icons=true&theme=defalte) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohhyuntaek&show_icons=true&theme=default) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohhyuntaek&layout=compact)](https://github.com/Ohhyuntaek/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ohhyuntaek&theme=react)](https://github.com/Ohhyuntaek/github-readme-activity-graph)
-
-### **| Baekjoon |**
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=penguin4404)](https://solved.ac/penguin4404)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=penguin4404&theme=warm)
-
-<img src="https://topsolved.mayonedev.com/api/boj?handle=penguin4404&row=25">
-
 
 ---
 
