@@ -9,8 +9,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohhyuntaek&show_icons=true&theme=default) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohhyuntaek&layout=compact)](https://github.com/Ohhyuntaek/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ohhyuntaek&theme=react)](https://github.com/Ohhyuntaek/github-readme-activity-graph)
-
 ---
 
 </div>
